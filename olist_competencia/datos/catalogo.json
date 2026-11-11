@@ -1,0 +1,535 @@
+{
+ "version_catalogo": "2026-11-10",
+ "productos": [
+  {
+   "sku": "OL-0001",
+   "nombre": "Fronha Avulsa Percal 200 Fios",
+   "marca": "Casa Serena",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 39.99
+  },
+  {
+   "sku": "OL-0002",
+   "nombre": "Toalha de Rosto Fio Penteado",
+   "marca": "Casa Serena",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 45.9
+  },
+  {
+   "sku": "OL-0003",
+   "nombre": "Jogo de Toalhas de Banho 2 Peças",
+   "marca": "Ninho Bom",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 69.9
+  },
+  {
+   "sku": "OL-0004",
+   "nombre": "Travesseiro Fibra Siliconada",
+   "marca": "Casa Serena",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 79.99
+  },
+  {
+   "sku": "OL-0005",
+   "nombre": "Jogo de Lençol Solteiro 3 Peças",
+   "marca": "Fios do Sul",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 89.9
+  },
+  {
+   "sku": "OL-0006",
+   "nombre": "Jogo de Lençol Casal 4 Peças 200 Fios",
+   "marca": "Fios do Sul",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 92.0
+  },
+  {
+   "sku": "OL-0007",
+   "nombre": "Edredom Casal Dupla Face",
+   "marca": "Fios do Sul",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 92.9
+  },
+  {
+   "sku": "OL-0008",
+   "nombre": "Kit Colcha Matelassê Queen 3 Peças",
+   "marca": "Fios do Sul",
+   "categoria": "Cama, Mesa e Banho",
+   "precio_olist": 202.5
+  },
+  {
+   "sku": "OL-0009",
+   "nombre": "Sabonete Líquido Facial 150ml",
+   "marca": "Bella Flor",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 23.99
+  },
+  {
+   "sku": "OL-0010",
+   "nombre": "Máscara Capilar Hidratação 500g",
+   "marca": "Derma Sol",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 49.9
+  },
+  {
+   "sku": "OL-0011",
+   "nombre": "Kit Shampoo e Condicionador 300ml",
+   "marca": "Derma Sol",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 58.99
+  },
+  {
+   "sku": "OL-0012",
+   "nombre": "Protetor Solar FPS 50 200ml",
+   "marca": "Derma Sol",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 66.99
+  },
+  {
+   "sku": "OL-0013",
+   "nombre": "Sérum Facial Vitamina C 30ml",
+   "marca": "Derma Sol",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 89.99
+  },
+  {
+   "sku": "OL-0014",
+   "nombre": "Escova Secadora Alisadora",
+   "marca": "Derma Sol",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 122.99
+  },
+  {
+   "sku": "OL-0015",
+   "nombre": "Balança Digital Corporal",
+   "marca": "Derma Sol",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 330.0
+  },
+  {
+   "sku": "OL-0016",
+   "nombre": "Prancha Alisadora Titanium 230°C",
+   "marca": "Vita Pura",
+   "categoria": "Beleza e Saúde",
+   "precio_olist": 349.9
+  },
+  {
+   "sku": "OL-0017",
+   "nombre": "Squeeze Térmico 750ml",
+   "marca": "Trilha Viva",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 25.9
+  },
+  {
+   "sku": "OL-0018",
+   "nombre": "Corda de Pular com Rolamento",
+   "marca": "Arena Pro",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 29.5
+  },
+  {
+   "sku": "OL-0019",
+   "nombre": "Tapete de Yoga Antiderrapante",
+   "marca": "Ritmo Fit",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 45.9
+  },
+  {
+   "sku": "OL-0020",
+   "nombre": "Kit Elásticos de Resistência 5 Níveis",
+   "marca": "Ritmo Fit",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 45.9
+  },
+  {
+   "sku": "OL-0021",
+   "nombre": "Luvas de Musculação Acolchoadas",
+   "marca": "Ritmo Fit",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 49.9
+  },
+  {
+   "sku": "OL-0022",
+   "nombre": "Halteres Emborrachados 2kg (Par)",
+   "marca": "Ritmo Fit",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 65.0
+  },
+  {
+   "sku": "OL-0023",
+   "nombre": "Bola de Futebol Campo Oficial",
+   "marca": "Ritmo Fit",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 69.9
+  },
+  {
+   "sku": "OL-0024",
+   "nombre": "Mochila Esportiva Impermeável",
+   "marca": "Trilha Viva",
+   "categoria": "Esporte e Lazer",
+   "precio_olist": 107.0
+  },
+  {
+   "sku": "OL-0025",
+   "nombre": "Quadro Decorativo 40x60",
+   "marca": "Madeira Nobre",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 35.0
+  },
+  {
+   "sku": "OL-0026",
+   "nombre": "Relógio de Parede Minimalista",
+   "marca": "Madeira Nobre",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 35.0
+  },
+  {
+   "sku": "OL-0027",
+   "nombre": "Nicho Organizador MDF",
+   "marca": "Madeira Nobre",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 35.0
+  },
+  {
+   "sku": "OL-0028",
+   "nombre": "Prateleira Flutuante 60cm",
+   "marca": "Lar Moderno",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 35.0
+  },
+  {
+   "sku": "OL-0029",
+   "nombre": "Espelho Redondo Adnet 50cm",
+   "marca": "Estilo Casa",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 69.9
+  },
+  {
+   "sku": "OL-0030",
+   "nombre": "Luminária de Mesa Articulada",
+   "marca": "Madeira Nobre",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 89.9
+  },
+  {
+   "sku": "OL-0031",
+   "nombre": "Banqueta Alta Estofada",
+   "marca": "Lar Moderno",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 99.9
+  },
+  {
+   "sku": "OL-0032",
+   "nombre": "Cabideiro de Chão em Madeira",
+   "marca": "Estilo Casa",
+   "categoria": "Móveis e Decoração",
+   "precio_olist": 230.0
+  },
+  {
+   "sku": "OL-0033",
+   "nombre": "Mousepad Gamer Extra Grande",
+   "marca": "Byte Max",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 78.9
+  },
+  {
+   "sku": "OL-0034",
+   "nombre": "Mouse Óptico sem Fio 1600 DPI",
+   "marca": "Conecta+",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 84.89
+  },
+  {
+   "sku": "OL-0035",
+   "nombre": "Hub USB 3.0 com 4 Portas",
+   "marca": "Conecta+",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 89.49
+  },
+  {
+   "sku": "OL-0036",
+   "nombre": "Teclado sem Fio ABNT2",
+   "marca": "Pixel Tech",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 89.79
+  },
+  {
+   "sku": "OL-0037",
+   "nombre": "Suporte Ajustável para Notebook",
+   "marca": "Byte Max",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 137.9
+  },
+  {
+   "sku": "OL-0038",
+   "nombre": "Webcam Full HD 1080p",
+   "marca": "Conecta+",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 139.99
+  },
+  {
+   "sku": "OL-0039",
+   "nombre": "Headset Gamer com Microfone",
+   "marca": "Conecta+",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 143.9
+  },
+  {
+   "sku": "OL-0040",
+   "nombre": "Kit Teclado e Mouse Gamer RGB",
+   "marca": "Pixel Tech",
+   "categoria": "Informática e Acessórios",
+   "precio_olist": 149.9
+  },
+  {
+   "sku": "OL-0041",
+   "nombre": "Porta-Temperos Giratório 12 Potes",
+   "marca": "Cozinha Feliz",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 16.99
+  },
+  {
+   "sku": "OL-0042",
+   "nombre": "Kit Potes Herméticos 10 Peças",
+   "marca": "Prática Casa",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 52.9
+  },
+  {
+   "sku": "OL-0043",
+   "nombre": "Garrafa Térmica 1L",
+   "marca": "Prática Casa",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 59.9
+  },
+  {
+   "sku": "OL-0044",
+   "nombre": "Jogo de Facas Inox 6 Peças",
+   "marca": "Cozinha Feliz",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 120.0
+  },
+  {
+   "sku": "OL-0045",
+   "nombre": "Escorredor de Louças Inox",
+   "marca": "Prática Casa",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 129.0
+  },
+  {
+   "sku": "OL-0046",
+   "nombre": "Organizador de Geladeira 6 Peças",
+   "marca": "Prática Casa",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 130.0
+  },
+  {
+   "sku": "OL-0047",
+   "nombre": "Lixeira Inox com Pedal 12L",
+   "marca": "Cozinha Feliz",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 169.9
+  },
+  {
+   "sku": "OL-0048",
+   "nombre": "Jogo de Panelas Antiaderente 5 Peças",
+   "marca": "Prática Casa",
+   "categoria": "Utilidades Domésticas",
+   "precio_olist": 169.99
+  }
+ ],
+ "tiendas": {
+  "mercadoabierto": {
+   "nombre": "Mercado Abierto",
+   "productos": {
+    "OL-0002": "MAB-0032526630",
+    "OL-0003": "MAB-1323664422",
+    "OL-0004": "MAB-6881257231",
+    "OL-0005": "MAB-6484827260",
+    "OL-0006": "MAB-3653783748",
+    "OL-0007": "MAB-5357932116",
+    "OL-0008": "MAB-7380501443",
+    "OL-0009": "MAB-1841915191",
+    "OL-0010": "MAB-2239740651",
+    "OL-0011": "MAB-9990819195",
+    "OL-0012": "MAB-9807041772",
+    "OL-0013": "MAB-7555202230",
+    "OL-0014": "MAB-2890558194",
+    "OL-0015": "MAB-5922808067",
+    "OL-0016": "MAB-7582543832",
+    "OL-0017": "MAB-7589242845",
+    "OL-0018": "MAB-5938253371",
+    "OL-0019": "MAB-5927368454",
+    "OL-0020": "MAB-0026926519",
+    "OL-0021": "MAB-8519991077",
+    "OL-0022": "MAB-8430721162",
+    "OL-0023": "MAB-0659440458",
+    "OL-0024": "MAB-0667855137",
+    "OL-0025": "MAB-3286973409",
+    "OL-0026": "MAB-8731766819",
+    "OL-0027": "MAB-0468874966",
+    "OL-0028": "MAB-9515452839",
+    "OL-0029": "MAB-7051431866",
+    "OL-0030": "MAB-7178752076",
+    "OL-0031": "MAB-3483610154",
+    "OL-0032": "MAB-8504839638",
+    "OL-0033": "MAB-9164706892",
+    "OL-0034": "MAB-9220698131",
+    "OL-0035": "MAB-3995853659",
+    "OL-0036": "MAB-2236654333",
+    "OL-0037": "MAB-4890084014",
+    "OL-0038": "MAB-3501065302",
+    "OL-0039": "MAB-5741360295",
+    "OL-0040": "MAB-7541471143",
+    "OL-0041": "MAB-4014542559",
+    "OL-0042": "MAB-8989739393",
+    "OL-0043": "MAB-8740183442",
+    "OL-0044": "MAB-7048167221",
+    "OL-0045": "MAB-1219334371",
+    "OL-0046": "MAB-2485159516",
+    "OL-0047": "MAB-1612027715",
+    "OL-0048": "MAB-0042038227"
+   }
+  },
+  "selva": {
+   "nombre": "Selva",
+   "productos": {
+    "OL-0001": "B01N3QTY4W",
+    "OL-0002": "B06EH9DMK1",
+    "OL-0003": "B05S8MZQFT",
+    "OL-0004": "B0KN0E6M9J",
+    "OL-0006": "B0RKU6F03V",
+    "OL-0007": "B00TXR7X3R",
+    "OL-0008": "B0CP1N6RYC",
+    "OL-0009": "B0WKEWX8W3",
+    "OL-0010": "B0X9N9SYGD",
+    "OL-0011": "B0Z3R1B3S2",
+    "OL-0012": "B0Z2VBWA5C",
+    "OL-0013": "B0FW7ZS7KR",
+    "OL-0014": "B0WS13E03Q",
+    "OL-0015": "B0XDYCV6S2",
+    "OL-0017": "B0V02AG7B1",
+    "OL-0018": "B0UN638619",
+    "OL-0019": "B0VV7LNVZA",
+    "OL-0021": "B0ZRCJCPZ7",
+    "OL-0022": "B0JRRTA45D",
+    "OL-0023": "B0ZT8FV4U0",
+    "OL-0024": "B0W02JLXND",
+    "OL-0025": "B0SVYZ8HZ3",
+    "OL-0026": "B0LWA77ZJ6",
+    "OL-0027": "B0CLC4KEZL",
+    "OL-0028": "B0JD0SEHNX",
+    "OL-0029": "B0P84LMHAY",
+    "OL-0030": "B0VMNXEADK",
+    "OL-0031": "B0S0K2S51Y",
+    "OL-0032": "B01VHXKKYJ",
+    "OL-0033": "B0V48TUF66",
+    "OL-0035": "B0MKDPXT7T",
+    "OL-0037": "B0T7MVN20H",
+    "OL-0038": "B0KAVLWKDC",
+    "OL-0039": "B0CXN3HJXL",
+    "OL-0040": "B0TVH5UY8U",
+    "OL-0041": "B09T7CPA8E",
+    "OL-0042": "B0MV674MKL",
+    "OL-0043": "B0RT1KKN4J",
+    "OL-0045": "B0U4YSMUYK",
+    "OL-0047": "B02UP9A2NX",
+    "OL-0048": "B0VJU8A1VX"
+   }
+  },
+  "compree": {
+   "nombre": "Compree",
+   "productos": {
+    "OL-0001": "CP-29932003388",
+    "OL-0002": "CP-91366781451",
+    "OL-0003": "CP-29584659305",
+    "OL-0004": "CP-31756743678",
+    "OL-0005": "CP-08502101503",
+    "OL-0006": "CP-44900730669",
+    "OL-0007": "CP-29126569302",
+    "OL-0008": "CP-48491871127",
+    "OL-0009": "CP-16612044309",
+    "OL-0010": "CP-75192556903",
+    "OL-0011": "CP-59952103129",
+    "OL-0013": "CP-71515312166",
+    "OL-0014": "CP-32958770561",
+    "OL-0015": "CP-36234839334",
+    "OL-0017": "CP-97498685364",
+    "OL-0018": "CP-86650993355",
+    "OL-0019": "CP-37602295785",
+    "OL-0020": "CP-40810655337",
+    "OL-0021": "CP-11631175387",
+    "OL-0022": "CP-30553437362",
+    "OL-0023": "CP-53192238457",
+    "OL-0024": "CP-92148731079",
+    "OL-0025": "CP-53124455912",
+    "OL-0026": "CP-16705375617",
+    "OL-0027": "CP-09485322396",
+    "OL-0028": "CP-05158189286",
+    "OL-0029": "CP-67985192589",
+    "OL-0031": "CP-81019640578",
+    "OL-0032": "CP-77018946195",
+    "OL-0033": "CP-28396021769",
+    "OL-0034": "CP-83517733627",
+    "OL-0035": "CP-88904158298",
+    "OL-0036": "CP-24513028783",
+    "OL-0037": "CP-35017594122",
+    "OL-0038": "CP-92825573509",
+    "OL-0039": "CP-51567457457",
+    "OL-0040": "CP-25941758909",
+    "OL-0041": "CP-19125440285",
+    "OL-0042": "CP-21849057227",
+    "OL-0043": "CP-51981444281",
+    "OL-0044": "CP-80453912162",
+    "OL-0045": "CP-11172479189",
+    "OL-0046": "CP-36451391956",
+    "OL-0047": "CP-25263207278",
+    "OL-0048": "CP-46335415085"
+   }
+  },
+  "ridley": {
+   "nombre": "Ridley",
+   "productos": {
+    "OL-0002": "RDL-20040805",
+    "OL-0004": "RDL-20047907",
+    "OL-0005": "RDL-20042625",
+    "OL-0006": "RDL-20048725",
+    "OL-0007": "RDL-20047038",
+    "OL-0008": "RDL-20041901",
+    "OL-0009": "RDL-20041574",
+    "OL-0010": "RDL-20045322",
+    "OL-0011": "RDL-20040906",
+    "OL-0012": "RDL-20044377",
+    "OL-0013": "RDL-20040359",
+    "OL-0014": "RDL-20040080",
+    "OL-0018": "RDL-20042038",
+    "OL-0019": "RDL-20045845",
+    "OL-0020": "RDL-20046730",
+    "OL-0021": "RDL-20042153",
+    "OL-0022": "RDL-20042702",
+    "OL-0023": "RDL-20047225",
+    "OL-0025": "RDL-20047682",
+    "OL-0026": "RDL-20046657",
+    "OL-0027": "RDL-20047485",
+    "OL-0028": "RDL-20045973",
+    "OL-0029": "RDL-20045172",
+    "OL-0030": "RDL-20048026",
+    "OL-0031": "RDL-20040649",
+    "OL-0032": "RDL-20048850",
+    "OL-0033": "RDL-20041865",
+    "OL-0034": "RDL-20047278",
+    "OL-0036": "RDL-20048767",
+    "OL-0037": "RDL-20048193",
+    "OL-0038": "RDL-20045994",
+    "OL-0039": "RDL-20044245",
+    "OL-0041": "RDL-20048796",
+    "OL-0043": "RDL-20044429",
+    "OL-0044": "RDL-20043772",
+    "OL-0045": "RDL-20043280",
+    "OL-0046": "RDL-20049713",
+    "OL-0047": "RDL-20042288",
+    "OL-0048": "RDL-20045551"
+   }
+  }
+ }
+}
